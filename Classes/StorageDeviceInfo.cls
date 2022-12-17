@@ -188,3 +188,14 @@ Public Property Get ProductRevision() As String
     ProductRevision = m_DevInfo.ProductRevision
 End Property
 
+Public Function ToStr() As String
+    ToStr = DeviceInfo_ToStr(m_DevInfo)
+End Function
+
+Private Function DeviceInfo_ToStr(this As DEVICE_INFORMATION) As String
+    Dim s As String
+    With this
+        
+    End With
+    DeviceInfo_ToStr = s
+End Function
