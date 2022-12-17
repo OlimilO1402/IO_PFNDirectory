@@ -7,6 +7,6 @@
 [![Follow](https://img.shields.io/github/followers/OlimilO1402.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/OlimilO1402/IO_PFNDirectory/watchers)
 
 Project started in dec. 2022.  
+Code shows how to do a directory class  
 
-
-![IEnumVarImpl Image](Resources/IEnumVarImpl.png "IEnumVarImpl Image")
+![PFNDirectory Image](Resources/PFNDirectory.png "PFNDirectory Image")
